@@ -1,0 +1,199 @@
+[
+  
+  {
+    "title": "Pet Peeve",
+    "url": "/posts/pet-peeve/",
+    "categories": "life",
+    "tags": "well-being",
+    "date": "2018-04-01 07:35:00 -0700",
+    
+
+
+
+
+
+    "snippet": "TL; DRCommunication, organization, facilitation, and others are technical skills.SetupI have grown to have a pet peeve. Let me draw an image for you. How many companies succeed to their full capability at everything they do? How many teams have perfect communication with each other, other teams, ..."
+  },
+  
+  {
+    "title": "Our Team Doesn’t Need to Retro",
+    "url": "/posts/retro-block/",
+    "categories": "agility",
+    "tags": "well-being, retrospective",
+    "date": "2017-09-11 10:42:00 -0700",
+    
+
+
+
+
+
+    "snippet": "    TL; DRSometimes as a team becomes successful, and they have had very successful retrospectives, they stop getting value from those retrospectives. Something must change for the team, in its new state, to gain more value from this exercise. I suggest more retrospectives focused on smaller thin..."
+  },
+  
+  {
+    "title": "The Power of a New Voice",
+    "url": "/posts/power-new-voice/",
+    "categories": "life",
+    "tags": "well-being",
+    "date": "2017-08-21 13:43:00 -0700",
+    
+
+
+
+
+
+    "snippet": "TL; DRToo often the person with the least experience is ignored. This is a shame because they are often the person who can lead us to the most significant insights. They will see things we overlook or have become accustomed to. They can help us question the things we have started to not question...."
+  },
+  
+  {
+    "title": "The Things We Say",
+    "url": "/posts/things-we-say/",
+    "categories": "development",
+    "tags": "well-being",
+    "date": "2017-08-14 18:39:00 -0700",
+    
+
+
+
+
+
+    "snippet": "I want to retire certain phrases from programmer parlance.TL; DRWe are not clear in what we say. We use incorrect metaphor. We choose vague terms instead of better ones. Let us trim some of the excess terminology and jargon.Technical ExcellenceThis terms vagueness is its undoing. Almost everyone ..."
+  },
+  
+  {
+    "title": "Story Sizing with &#39;#NoEstimates&#39;",
+    "url": "/posts/story-sizing/",
+    "categories": "agility",
+    "tags": "No Estimates",
+    "date": "2017-08-07 18:27:00 -0700",
+    
+
+
+
+
+
+    "snippet": "A way to determine if a story is small enough without estimating it.TL; DR“No Estimates” is a modern movement in software development that focuses on eliminating wasteful estimates. However how do you know if a story is small enough to be accomplished without estimating its size? There are a seri..."
+  },
+  
+  {
+    "title": "Employee Feedback without Unicorns",
+    "url": "/posts/employee-feedback/",
+    "categories": "business",
+    "tags": "process, people",
+    "date": "2017-07-24 11:05:00 -0700",
+    
+
+
+
+
+
+    "snippet": "I am talking at #Agile2017 about giving meaningful, helpful, and humane, employee feedback. The secret is that the employee needs to be central.TL; DRThe only person qualified to give advice to an employee regarding their career is the employee. That means we need to empower the people who work f..."
+  },
+  
+  {
+    "title": "Onboarding a Human Into a Human System",
+    "url": "/posts/onboarding/",
+    "categories": "business",
+    "tags": "process, people, hiring",
+    "date": "2017-07-17 18:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Onboarding is much more than a meeting with HR, it is the integration of new person.TL; DROnboarding is an important endeavor. If we approach it seriously and conscientiously we can make the new person feel more welcomed and part of a team.Initial Onboarding MeetingHuman Resources has a job to do..."
+  },
+  
+  {
+    "title": "Making a safe place to work",
+    "url": "/posts/safe-place-to-work/",
+    "categories": "business",
+    "tags": "safety",
+    "date": "2016-08-07 13:30:00 -0700",
+    
+
+
+
+
+
+    "snippet": "ThanksThis post is a special thank you to @JoshuaKerievsky. First I do not work with Joshua, or am I associated with him, however he has inspired a large amount of good things within my team.Safety is a SkillBringing safty to the place I work is one of my highest priorities. Now to be fair, my pl..."
+  },
+  
+  {
+    "title": "The problem with the &#39;#NoEstimates&#39; Debate",
+    "url": "/posts/no-estimates-problem/",
+    "categories": "agility",
+    "tags": "No Estimates",
+    "date": "2016-07-03 12:37:00 -0700",
+    
+
+
+
+
+
+    "snippet": "The problem with the #NoEstimates debate is that both sides are not arguing the same thing and therefore the debate focuses on invalid points. The #NoEstimates hash tag has almost nothing to do with estimates, despite the focus the debates have. What is really being discussed is fundamental ways ..."
+  },
+  
+  {
+    "title": "Intentionally Exceptional",
+    "url": "/posts/intentionally-exceptional/",
+    "categories": "development",
+    "tags": "mindset",
+    "date": "2015-12-30 22:09:00 -0700",
+    
+
+
+
+
+
+    "snippet": "  “Simple can be harder than complex: You have to work hard to get your thinking clean to make it simple. But it’s worth it in the end because once you get there, you can move mountains.” – Steve JobsEvery process, person, or thing that is exceptional became that way through lots of hard work and..."
+  },
+  
+  {
+    "title": "A Better Interview",
+    "url": "/posts/a-better-interview/",
+    "categories": "development",
+    "tags": "process, people, hiring",
+    "date": "2015-12-17 11:19:00 -0700",
+    
+
+
+
+
+
+    "snippet": "As interviewing is the first impression a company has of a candidate and the first impression a candidate has of the company, it is important to get right. My goal with this article is to start an open discussion about interviewing and how we can improve it. As a community we need feedback, debat..."
+  },
+  
+  {
+    "title": "Why I believe in &#39;#NoEstimates&#39;",
+    "url": "/posts/i-believe-in-no-estimates/",
+    "categories": "agility",
+    "tags": "No Estimates",
+    "date": "2015-08-12 07:20:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Before I start, as I will be talking about different work experiences, I need to state all my opinions are my own. They do not represent the opinions of my current or past employers.That being said now let me begin.What:When I was first introduced to the concept of #NoEstimates I was a mid-level ..."
+  },
+  
+  {
+    "title": "Toxicity is Abuse",
+    "url": "/posts/toxicity-is-abuse/",
+    "categories": "life",
+    "tags": "well-being",
+    "date": "2015-06-30 22:27:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Why I am writing thisThis weekend I got into a lot of discussions about the responsibilities of a programmer.  I heard multiple times that a programmer cannot be held responsible if they are working in an environment that is toxic and forces bad behavior. While I do not advocate that someone thre..."
+  }
+  
+]
+
