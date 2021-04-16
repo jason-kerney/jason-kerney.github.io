@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-04-15T17:56:21-07:00</updated>
+  <updated>2021-04-16T07:05:40-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Safe Dynamic Sql Generator</title>
+    <link href="https://jason.teamkerney.com/posts/safe-sql/" rel="alternate" type="text/html" title="Safe Dynamic Sql Generator" />
+    <published>2021-04-16T06:00:00-07:00</published>
+  
+    <updated>2021-04-16T07:05:20-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/safe-sql/</id>
+    <content src="https://jason.teamkerney.com/posts/safe-sql/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="development" />
+    
+  
+
+  
+    <summary>My team built a tool to safely generate sql.</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +144,6 @@
 
   
     <summary>I want to retire certain phrases from programmer parlance.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Story Sizing with '#NoEstimates'</title>
-    <link href="https://jason.teamkerney.com/posts/story-sizing/" rel="alternate" type="text/html" title="Story Sizing with '#NoEstimates'" />
-    <published>2017-08-07T18:27:00-07:00</published>
-  
-    <updated>2017-08-07T18:27:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/story-sizing/</id>
-    <content src="https://jason.teamkerney.com/posts/story-sizing/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>A way to determine if a story is small enough without estimating it.</summary>
   
 
   </entry>
