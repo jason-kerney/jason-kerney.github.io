@@ -25,6 +25,8 @@ const resource = [
   
     '/about/',
   
+    '/now/',
+  
 
   /* --- Icons --- */
   
