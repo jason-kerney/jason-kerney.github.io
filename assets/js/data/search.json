@@ -12,7 +12,7 @@
 
 
 
-    "snippet": "TL; DRThere is always a desire to dynamically limit the results of large tables. The need to limit, and order columns dynamicly. And then, filter on these modified columns. You either have to do some machinations to allow the shape of the data to appear to change for the user, or you result to dy..."
+    "snippet": "TL; DRThere is always a desire to dynamically limit the results of large tables. The need to limit, and order columns dynamically. And then, filter on these modified columns. You either have to do some machinations to allow the shape of the data to appear to change for the user, or you result to ..."
   },
   
   {

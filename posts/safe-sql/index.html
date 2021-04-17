@@ -40,7 +40,7 @@
 <meta name="twitter:creator" content="@Jason" />
 <meta name="google-site-verification" content="google_meta_tag_verification" />
 <script type="application/ld+json">
-{"author":{"@type":"Person","name":"Jason"},"url":"https://jason.teamkerney.com/posts/safe-sql/","@type":"BlogPosting","description":"Jason’s thoughts on agility, programming, business, board games, and the surrounding communities.","headline":"Safe Dynamic Sql Generator","dateModified":"2021-04-16T08:42:11-07:00","datePublished":"2021-04-16T06:00:00-07:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://jason.teamkerney.com/posts/safe-sql/"},"@context":"https://schema.org"}</script>
+{"author":{"@type":"Person","name":"Jason"},"url":"https://jason.teamkerney.com/posts/safe-sql/","@type":"BlogPosting","description":"Jason’s thoughts on agility, programming, business, board games, and the surrounding communities.","headline":"Safe Dynamic Sql Generator","dateModified":"2021-04-16T18:07:52-07:00","datePublished":"2021-04-16T06:00:00-07:00","mainEntityOfPage":{"@type":"WebPage","@id":"https://jason.teamkerney.com/posts/safe-sql/"},"@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -626,7 +626,7 @@
   
     data-toggle="tooltip"
     data-placement="bottom"
-    title="Fri, Apr 16, 2021,  8:42 AM -0700"
+    title="Fri, Apr 16, 2021,  6:07 PM -0700"
   
 
   prefix="Updated "
@@ -639,7 +639,7 @@
     Apr 16
   
 
-  <i class="unloaded">2021-04-16T08:42:11-07:00</i>
+  <i class="unloaded">2021-04-16T18:07:52-07:00</i>
 
 </span>
 
@@ -661,7 +661,7 @@
 
 
 <!-- return element -->
-<span class="readtime" data-toggle="tooltip" data-placement="bottom" title="421 words">2 min</span>
+<span class="readtime" data-toggle="tooltip" data-placement="bottom" title="422 words">2 min</span>
 
 
           <!-- page views -->
@@ -681,19 +681,19 @@
 
 <h2 id="tl-dr">TL; DR</h2>
 
-<p>There is always a desire to dynamically limit the results of large tables. The need to limit, and order columns dynamicly. And then, filter on these modified columns. You either have to do some machinations to allow the shape of the data to appear to change for the user, or you result to <strong><em><span style="color: red;">dynamic</span></em></strong> SQL.</p>
+<p>There is always a desire to dynamically limit the results of large tables. The need to limit, and order columns dynamically. And then, filter on these modified columns. You either have to do some machinations to allow the shape of the data to appear to change for the user, or you result to <strong><em><span style="color: red;">dynamic</span></em></strong> SQL.</p>
 
 <p>The problem with dynamic SQL is that it opens your server up to attack. So, <em>what if</em> you could do dynamic SQL without the risk to attack? That was the goal to making Safe Sql Builder.</p>
 
 <h2 id="what-is-safe-dynamic-sql-generator">What is Safe Dynamic Sql Generator</h2>
 
-<p>Safe Dynamic SQL Generator is a tool that takes a predetermined list of valid column names and uses that to generate valid parameterized sql based off of a suplied query specification.</p>
+<p>Safe Dynamic SQL Generator is a tool that takes a predetermined list of valid column names and uses that to generate valid parameterized sql based off of a supplied query specification.</p>
 
-<p>In otherwords, it takes an untrusted request that defines the desired query, and generates SQL from a preconfigured setup. This query is parameterized, and built using the predetermined configuration not the request.</p>
+<p>In other words, it takes an untrusted request that defines the desired query, and generates SQL from a preconfigured setup. This query is parameterized, and built using the predetermined configuration not the request.</p>
 
 <h2 id="why">Why</h2>
 
-<p>My team had a need to develop a highly customizable website that showed data from a very wide and deep table. The customer needed to be able to slice the data into smaller chuncks dynamicly. Not wanting to simply concatinate strings together, we engineered a way to break the configuration into 2 parts. One is provided by the developer, the other by the client. We trust the configuration given by the developer, but not that given by the client.</p>
+<p>My team had a need to develop a highly customizable website that showed data from a very wide and deep table. The customer needed to be able to slice the data into smaller chunks dynamically. Not wanting to simply concatenate strings together, we engineered a way to break the configuration into 2 parts. One is provided by the developer, the other by the client. We trust the configuration given by the developer, but not that given by the client.</p>
 
 <p>This allowed us to simplify our domain and make an application that could be used in endless ways.</p>
 
@@ -716,7 +716,7 @@
 });
 </code></pre>
 
-<p>Then it recieves a query object that looks like this:</p>
+<p>Then it receives a query object that looks like this:</p>
 
 <pre><code class="language-C#">var query = new Query
 {
