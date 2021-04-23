@@ -1,6 +1,36 @@
 [
   
   {
+    "title": "Using All Contributors ✨ Tools",
+    "url": "/posts/b-using-all-contributors/",
+    "categories": "development",
+    "tags": "community, open source, how-to",
+    "date": "2021-04-23 06:01:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Photo by Ivan Samkov from PexelsIntroI really love the “All Contributors ✨” specification and tool set, but I found their documentation hard to navigate. So, because I see this as being unbelievably valuable, I am going to guide you in setting it up.  Note  The “All Contributions” site recommends..."
+  },
+  
+  {
+    "title": "The Magic of &#39;All Contributors ✨&#39;",
+    "url": "/posts/a-all-contributors/",
+    "categories": "development",
+    "tags": "community, open source",
+    "date": "2021-04-23 06:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Photo by Startup Stock Photos from PexelsTL; DRGiving people recognition is good. The “All Contributors ✨” specification and tool set makes this easy. So please use it and tell people about it.Why All Contributors ✨There are a lot of people who help us make open-source software. Some just contrib..."
+  },
+  
+  {
     "title": "Safe Dynamic Sql Generator",
     "url": "/posts/safe-sql/",
     "categories": "development",

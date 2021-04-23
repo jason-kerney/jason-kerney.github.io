@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-04-22T07:07:07-07:00</updated>
+  <updated>2021-04-23T06:39:35-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,58 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Using All Contributors ✨ Tools</title>
+    <link href="https://jason.teamkerney.com/posts/b-using-all-contributors/" rel="alternate" type="text/html" title="Using All Contributors ✨ Tools" />
+    <published>2021-04-23T06:01:00-07:00</published>
+  
+    <updated>2021-04-23T06:01:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/b-using-all-contributors/</id>
+    <content src="https://jason.teamkerney.com/posts/b-using-all-contributors/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="development" />
+    
+  
+
+  
+    <summary>How to get started with the "All Contributors" specification</summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>The Magic of 'All Contributors ✨'</title>
+    <link href="https://jason.teamkerney.com/posts/a-all-contributors/" rel="alternate" type="text/html" title="The Magic of 'All Contributors ✨'" />
+    <published>2021-04-23T06:00:00-07:00</published>
+  
+    <updated>2021-04-23T06:39:23-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/a-all-contributors/</id>
+    <content src="https://jason.teamkerney.com/posts/a-all-contributors/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="development" />
+    
+  
+
+  
+    <summary>Giving credit for help has never been so easy in the open-source world.</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -92,58 +144,6 @@
 
   
     <summary>Increasing frequency can make reto's valuable again.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>The Power of a New Voice</title>
-    <link href="https://jason.teamkerney.com/posts/power-new-voice/" rel="alternate" type="text/html" title="The Power of a New Voice" />
-    <published>2017-08-21T13:43:00-07:00</published>
-  
-    <updated>2017-08-21T13:43:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/power-new-voice/</id>
-    <content src="https://jason.teamkerney.com/posts/power-new-voice/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="life" />
-    
-  
-
-  
-    <summary>A new view of how you operate can give you the best insight.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>The Things We Say</title>
-    <link href="https://jason.teamkerney.com/posts/things-we-say/" rel="alternate" type="text/html" title="The Things We Say" />
-    <published>2017-08-14T18:39:00-07:00</published>
-  
-    <updated>2017-08-14T18:39:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/things-we-say/</id>
-    <content src="https://jason.teamkerney.com/posts/things-we-say/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="development" />
-    
-  
-
-  
-    <summary>I want to retire certain phrases from programmer parlance.</summary>
   
 
   </entry>
