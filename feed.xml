@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-04-23T06:39:35-07:00</updated>
+  <updated>2021-04-30T06:35:34-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>What is a retrospective?</title>
+    <link href="https://jason.teamkerney.com/posts/restrospectives/" rel="alternate" type="text/html" title="What is a retrospective?" />
+    <published>2021-04-30T06:00:00-07:00</published>
+  
+    <updated>2021-04-30T06:00:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/restrospectives/</id>
+    <content src="https://jason.teamkerney.com/posts/restrospectives/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>A retrospective is easily defined but hard to nail down.</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +144,6 @@
 
   
     <summary>The focus on computer, or mechanical skills hurts our ability to be successful.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Our Team Doesn’t Need to Retro</title>
-    <link href="https://jason.teamkerney.com/posts/retro-block/" rel="alternate" type="text/html" title="Our Team Doesn’t Need to Retro" />
-    <published>2017-09-11T10:42:00-07:00</published>
-  
-    <updated>2017-09-11T10:42:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/retro-block/</id>
-    <content src="https://jason.teamkerney.com/posts/retro-block/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>Increasing frequency can make reto's valuable again.</summary>
   
 
   </entry>

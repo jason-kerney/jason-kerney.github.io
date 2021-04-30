@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "What is a retrospective?",
+    "url": "/posts/restrospectives/",
+    "categories": "agility",
+    "tags": "retrospective",
+    "date": "2021-04-30 06:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "TL; DRA retrospective serves more than one role for a team. Sometimes by focusing on other things a retrospective does for us, we can glean more from our retrospectives. It is also worthwhile to acknowledge what a retrospective is not.The Humble RetrospectiveRetrospectives serve us in more than o..."
+  },
+  
+  {
     "title": "Using All Contributors ✨ Tools",
     "url": "/posts/b-using-all-contributors/",
     "categories": "development",
