@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-04-30T06:35:34-07:00</updated>
+  <updated>2021-05-07T09:26:26-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>The Workshop I helped Create</title>
+    <link href="https://jason.teamkerney.com/posts/my-workshop/" rel="alternate" type="text/html" title="The Workshop I helped Create" />
+    <published>2021-05-07T06:00:00-07:00</published>
+  
+    <updated>2021-05-07T06:00:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/my-workshop/</id>
+    <content src="https://jason.teamkerney.com/posts/my-workshop/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Photo by Pixabay from Pexels
+
+TL; DR
+
+Zach Bonaker and I made a simulation exercise I am really proud of. It focuses on how the environmental rules determine a team’s success. Here is where you can try it.
+
+Intro
+
+There comes a time when you get to work on something that really makes you proud. Zach Bonaker and I made something about two years ago that makes me proud. It is a workshop that exa...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +161,6 @@
 
   
     <summary>My team built a tool to safely generate sql.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Pet Peeve</title>
-    <link href="https://jason.teamkerney.com/posts/pet-peeve/" rel="alternate" type="text/html" title="Pet Peeve" />
-    <published>2018-04-01T07:35:00-07:00</published>
-  
-    <updated>2018-04-01T07:35:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/pet-peeve/</id>
-    <content src="https://jason.teamkerney.com/posts/pet-peeve/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="life" />
-    
-  
-
-  
-    <summary>The focus on computer, or mechanical skills hurts our ability to be successful.</summary>
   
 
   </entry>

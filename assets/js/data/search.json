@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "The Workshop I helped Create",
+    "url": "/posts/my-workshop/",
+    "categories": "agility",
+    "tags": "team, well-being, work-shop, open source",
+    "date": "2021-05-07 06:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Photo by Pixabay from PexelsTL; DRZach Bonaker and I made a simulation exercise I am really proud of. It focuses on how the environmental rules determine a team’s success. Here is where you can try it.IntroThere comes a time when you get to work on something that really makes you proud. Zach Bona..."
+  },
+  
+  {
     "title": "What is a retrospective?",
     "url": "/posts/restrospectives/",
     "categories": "agility",
