@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-05-07T09:26:26-07:00</updated>
+  <updated>2021-05-14T06:36:22-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>What is a good retrospective?</title>
+    <link href="https://jason.teamkerney.com/posts/good-retrospective/" rel="alternate" type="text/html" title="What is a good retrospective?" />
+    <published>2021-05-14T06:00:00-07:00</published>
+  
+    <updated>2021-05-14T06:00:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/good-retrospective/</id>
+    <content src="https://jason.teamkerney.com/posts/good-retrospective/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>Signs of a good retrospective</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -135,32 +161,6 @@ There comes a time when you get to work on something that really makes you proud
 
   
     <summary>Giving credit for help has never been so easy in the open-source world.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Safe Dynamic Sql Generator</title>
-    <link href="https://jason.teamkerney.com/posts/safe-sql/" rel="alternate" type="text/html" title="Safe Dynamic Sql Generator" />
-    <published>2021-04-16T06:00:00-07:00</published>
-  
-    <updated>2021-04-16T18:07:52-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/safe-sql/</id>
-    <content src="https://jason.teamkerney.com/posts/safe-sql/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="development" />
-    
-  
-
-  
-    <summary>My team built a tool to safely generate sql.</summary>
   
 
   </entry>
