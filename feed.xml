@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-05-20T12:43:26-07:00</updated>
+  <updated>2021-05-21T06:42:54-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,32 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Diagnosing a failed retrospective</title>
+    <link href="https://jason.teamkerney.com/posts/failed-retro/" rel="alternate" type="text/html" title="Diagnosing a failed retrospective" />
+    <published>2021-05-21T06:00:00-07:00</published>
+  
+    <updated>2021-05-16T03:10:03-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/failed-retro/</id>
+    <content src="https://jason.teamkerney.com/posts/failed-retro/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>Why do retrospectives fail?</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -135,32 +161,6 @@ There comes a time when you get to work on something that really makes you proud
 
   
     <summary>How to get started with the "All Contributors" specification</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>The Magic of 'All Contributors ✨'</title>
-    <link href="https://jason.teamkerney.com/posts/a-all-contributors/" rel="alternate" type="text/html" title="The Magic of 'All Contributors ✨'" />
-    <published>2021-04-23T06:00:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/a-all-contributors/</id>
-    <content src="https://jason.teamkerney.com/posts/a-all-contributors/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="development" />
-    
-  
-
-  
-    <summary>Giving credit for help has never been so easy in the open-source world.</summary>
   
 
   </entry>
