@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-05-21T06:42:54-07:00</updated>
+  <updated>2021-05-28T07:48:57-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -20,11 +20,37 @@
 
   
   <entry>
+    <title>What if We are Wrong?</title>
+    <link href="https://jason.teamkerney.com/posts/what-if-we-are-wrong/" rel="alternate" type="text/html" title="What if We are Wrong?" />
+    <published>2021-05-28T06:00:00-07:00</published>
+  
+    <updated>2021-05-16T03:10:03-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/what-if-we-are-wrong/</id>
+    <content src="https://jason.teamkerney.com/posts/what-if-we-are-wrong/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>What if the agile community is suffering from the curse of knowledge?</summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Diagnosing a failed retrospective</title>
     <link href="https://jason.teamkerney.com/posts/failed-retro/" rel="alternate" type="text/html" title="Diagnosing a failed retrospective" />
     <published>2021-05-21T06:00:00-07:00</published>
   
-    <updated>2021-05-16T03:10:03-07:00</updated>
+    <updated>2021-05-28T07:48:42-07:00</updated>
   
     <id>https://jason.teamkerney.com/posts/failed-retro/</id>
     <content src="https://jason.teamkerney.com/posts/failed-retro/" />
@@ -135,32 +161,6 @@ There comes a time when you get to work on something that really makes you proud
 
   
     <summary>A retrospective is easily defined but hard to nail down.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Using All Contributors ✨ Tools</title>
-    <link href="https://jason.teamkerney.com/posts/b-using-all-contributors/" rel="alternate" type="text/html" title="Using All Contributors ✨ Tools" />
-    <published>2021-04-23T06:01:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/b-using-all-contributors/</id>
-    <content src="https://jason.teamkerney.com/posts/b-using-all-contributors/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="development" />
-    
-  
-
-  
-    <summary>How to get started with the "All Contributors" specification</summary>
   
 
   </entry>
