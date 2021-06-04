@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-05-28T07:48:57-07:00</updated>
+  <updated>2021-06-04T06:48:15-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,58 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Gloomhaven - Making The Game Playable</title>
+    <link href="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" rel="alternate" type="text/html" title="Gloomhaven - Making The Game Playable" />
+    <published>2021-06-04T06:00:00-07:00</published>
+  
+    <updated>2021-06-04T06:00:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/b-gloomhaven-fix/</id>
+    <content src="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="gaming" />
+    
+  
+
+  
+    <summary>Gloomhaven is made better with digital tools.</summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Gloomhaven - An Honest Review</title>
+    <link href="https://jason.teamkerney.com/posts/a-gloom-haven-review/" rel="alternate" type="text/html" title="Gloomhaven - An Honest Review" />
+    <published>2021-06-04T05:59:00-07:00</published>
+  
+    <updated>2021-06-04T05:59:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/a-gloom-haven-review/</id>
+    <content src="https://jason.teamkerney.com/posts/a-gloom-haven-review/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="gaming" />
+    
+  
+
+  
+    <summary>Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry</summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -92,75 +144,6 @@
 
   
     <summary>Signs of a good retrospective</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>The Workshop I helped Create</title>
-    <link href="https://jason.teamkerney.com/posts/my-workshop/" rel="alternate" type="text/html" title="The Workshop I helped Create" />
-    <published>2021-05-07T06:00:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/my-workshop/</id>
-    <content src="https://jason.teamkerney.com/posts/my-workshop/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-Photo by Pixabay from Pexels
-
-TL; DR
-
-Zach Bonaker and I made a simulation exercise I am really proud of. It focuses on how the environmental rules determine a team’s success. Here is where you can try it.
-
-Intro
-
-There comes a time when you get to work on something that really makes you proud. Zach Bonaker and I made something about two years ago that makes me proud. It is a workshop that exa...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>What is a retrospective?</title>
-    <link href="https://jason.teamkerney.com/posts/restrospectives/" rel="alternate" type="text/html" title="What is a retrospective?" />
-    <published>2021-04-30T06:00:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/restrospectives/</id>
-    <content src="https://jason.teamkerney.com/posts/restrospectives/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>A retrospective is easily defined but hard to nail down.</summary>
   
 
   </entry>
