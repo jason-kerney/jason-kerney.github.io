@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Project Sync",
+    "url": "/posts/project-sync/",
+    "categories": "development",
+    "tags": "tool, open source",
+    "date": "2021-06-11 06:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "TL; DRI needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.What is Project SyncThis is a tool born out of need. My team works in an extensive Azure DevOps Repository, and I have a need to keep my working repository list to a minimum..."
+  },
+  
+  {
     "title": "Gloomhaven - Making The Game Playable",
     "url": "/posts/b-gloomhaven-fix/",
     "categories": "gaming",

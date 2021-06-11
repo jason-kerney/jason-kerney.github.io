@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-06-04T06:48:15-07:00</updated>
+  <updated>2021-06-11T07:51:33-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Project Sync</title>
+    <link href="https://jason.teamkerney.com/posts/project-sync/" rel="alternate" type="text/html" title="Project Sync" />
+    <published>2021-06-11T06:00:00-07:00</published>
+  
+    <updated>2021-06-11T06:00:00-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/project-sync/</id>
+    <content src="https://jason.teamkerney.com/posts/project-sync/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="development" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+
+TL; DR
+
+I needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.
+
+What is Project Sync
+
+This is a tool born out of need. My team works in an extensive Azure DevOps Repository, and I have a need to keep my working repository list to a minimum. Which means, I find myself deleting repositories, and then looking for them again in a mo...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -118,32 +161,6 @@
 
   
     <summary>Why do retrospectives fail?</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>What is a good retrospective?</title>
-    <link href="https://jason.teamkerney.com/posts/good-retrospective/" rel="alternate" type="text/html" title="What is a good retrospective?" />
-    <published>2021-05-14T06:00:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/good-retrospective/</id>
-    <content src="https://jason.teamkerney.com/posts/good-retrospective/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>Signs of a good retrospective</summary>
   
 
   </entry>
