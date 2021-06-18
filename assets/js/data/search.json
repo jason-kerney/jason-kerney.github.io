@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "The Awesome Booklisp",
+    "url": "/posts/booklisp/",
+    "categories": "development",
+    "tags": "community, open source",
+    "date": "2021-06-18 06:00:00 -0700",
+    
+
+
+
+
+
+    "snippet": "Photo by Ichad Windhiagiri from PexelsTL; DrBooklisp is a tool that makes managing your readme file easier and more dynamic.What is Booklisp?There are 4 types of open source (OO) software. The first is where the creator(s) see a general need and then go about providing a solution for that need. T..."
+  },
+  
+  {
     "title": "Project Sync",
     "url": "/posts/project-sync/",
     "categories": "development",

@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-06-11T07:51:33-07:00</updated>
+  <updated>2021-06-18T06:38:31-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,50 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>The Awesome Booklisp</title>
+    <link href="https://jason.teamkerney.com/posts/booklisp/" rel="alternate" type="text/html" title="The Awesome Booklisp" />
+    <published>2021-06-18T06:00:00-07:00</published>
+  
+    <updated>2021-05-16T03:10:03-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/booklisp/</id>
+    <content src="https://jason.teamkerney.com/posts/booklisp/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="development" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Photo by Ichad Windhiagiri from Pexels
+
+TL; Dr
+
+Booklisp is a tool that makes managing your readme file easier and more dynamic.
+
+What is Booklisp?
+
+There are 4 types of open source (OO) software. The first is where the creator(s) see a general need and then go about providing a solution for that need. The second type of OO software, is where someone has a, potentially novel, idea and they go...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -135,32 +179,6 @@ This is a tool born out of need. My team works in an extensive Azure DevOps Repo
 
   
     <summary>What if the agile community is suffering from the curse of knowledge?</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Diagnosing a failed retrospective</title>
-    <link href="https://jason.teamkerney.com/posts/failed-retro/" rel="alternate" type="text/html" title="Diagnosing a failed retrospective" />
-    <published>2021-05-21T06:00:00-07:00</published>
-  
-    <updated>2021-05-28T07:48:42-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/failed-retro/</id>
-    <content src="https://jason.teamkerney.com/posts/failed-retro/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>Why do retrospectives fail?</summary>
   
 
   </entry>
