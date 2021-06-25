@@ -23,9 +23,11 @@ const resource = [
   
     '/archives/',
   
-    '/about/',
+    '/series/',
   
     '/now/',
+  
+    '/about/',
   
 
   /* --- Icons --- */

@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-06-18T06:38:31-07:00</updated>
+  <updated>2021-06-24T12:29:15-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -24,7 +24,7 @@
     <link href="https://jason.teamkerney.com/posts/booklisp/" rel="alternate" type="text/html" title="The Awesome Booklisp" />
     <published>2021-06-18T06:00:00-07:00</published>
   
-    <updated>2021-05-16T03:10:03-07:00</updated>
+    <updated>2021-06-21T06:51:30-07:00</updated>
   
     <id>https://jason.teamkerney.com/posts/booklisp/</id>
     <content src="https://jason.teamkerney.com/posts/booklisp/" />
@@ -111,7 +111,7 @@ This is a tool born out of need. My team works in an extensive Azure DevOps Repo
     <link href="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" rel="alternate" type="text/html" title="Gloomhaven - Making The Game Playable" />
     <published>2021-06-04T06:00:00-07:00</published>
   
-    <updated>2021-06-04T06:00:00-07:00</updated>
+    <updated>2021-06-19T14:45:32-07:00</updated>
   
     <id>https://jason.teamkerney.com/posts/b-gloomhaven-fix/</id>
     <content src="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" />
@@ -137,7 +137,7 @@ This is a tool born out of need. My team works in an extensive Azure DevOps Repo
     <link href="https://jason.teamkerney.com/posts/a-gloom-haven-review/" rel="alternate" type="text/html" title="Gloomhaven - An Honest Review" />
     <published>2021-06-04T05:59:00-07:00</published>
   
-    <updated>2021-06-04T05:59:00-07:00</updated>
+    <updated>2021-06-19T14:45:32-07:00</updated>
   
     <id>https://jason.teamkerney.com/posts/a-gloom-haven-review/</id>
     <content src="https://jason.teamkerney.com/posts/a-gloom-haven-review/" />
