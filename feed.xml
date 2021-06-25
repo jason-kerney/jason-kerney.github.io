@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-06-24T12:29:15-07:00</updated>
+  <updated>2021-06-25T06:39:59-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,45 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Transformative Communication Second Edition</title>
+    <link href="https://jason.teamkerney.com/posts/transformitave-communications-v2/" rel="alternate" type="text/html" title="Transformative Communication Second Edition" />
+    <published>2021-06-25T06:00:00-07:00</published>
+  
+    <updated>2021-06-25T06:16:40-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/transformitave-communications-v2/</id>
+    <content src="https://jason.teamkerney.com/posts/transformitave-communications-v2/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="business" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Photo by cottonbro from Pexels
+
+TL;DR
+
+Communicating is hard. It is harder when that communication is intended to have an impact on those who receive it. It is too easy to be too accommodating and lose the thread of intent. It is also too easy to forget about the context of the audience and make the message unaccessible to them. By using a simple quadrant graph, I will talk about how to examin...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -153,32 +192,6 @@ This is a tool born out of need. My team works in an extensive Azure DevOps Repo
 
   
     <summary>Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>What if We are Wrong?</title>
-    <link href="https://jason.teamkerney.com/posts/what-if-we-are-wrong/" rel="alternate" type="text/html" title="What if We are Wrong?" />
-    <published>2021-05-28T06:00:00-07:00</published>
-  
-    <updated>2021-05-16T03:10:03-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/what-if-we-are-wrong/</id>
-    <content src="https://jason.teamkerney.com/posts/what-if-we-are-wrong/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="agility" />
-    
-  
-
-  
-    <summary>What if the agile community is suffering from the curse of knowledge?</summary>
   
 
   </entry>
