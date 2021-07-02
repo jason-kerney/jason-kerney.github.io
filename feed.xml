@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-06-25T06:48:02-07:00</updated>
+  <updated>2021-07-02T06:56:28-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -20,11 +20,55 @@
 
   
   <entry>
+    <title>What I learned from Agile Transformations</title>
+    <link href="https://jason.teamkerney.com/posts/TransformationalInsight/" rel="alternate" type="text/html" title="What I learned from Agile Transformations" />
+    <published>2021-07-02T06:00:00-07:00</published>
+  
+    <updated>2021-07-01T23:08:51-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/TransformationalInsight/</id>
+    <content src="https://jason.teamkerney.com/posts/TransformationalInsight/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="agility" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Photo by Mohan Reddy Atalu from Pexels
+
+TL;DR
+
+Human systems are at best a complex system. When we try to change that system we need to respect that system and understand it. Making changes that focus on simple answers but ignoring the complex parts of the system is inviting failure.
+
+Introduction
+
+I have been through several failed agile transformations and one successful one. To say that a ...
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>Transformative Communication Second Edition</title>
     <link href="https://jason.teamkerney.com/posts/transformitave-communications-v2/" rel="alternate" type="text/html" title="Transformative Communication Second Edition" />
     <published>2021-06-25T06:00:00-07:00</published>
   
-    <updated>2021-06-25T06:16:40-07:00</updated>
+    <updated>2021-06-25T09:10:10-07:00</updated>
   
     <id>https://jason.teamkerney.com/posts/transformitave-communications-v2/</id>
     <content src="https://jason.teamkerney.com/posts/transformitave-communications-v2/" />
@@ -166,32 +210,6 @@ This is a tool born out of need. My team works in an extensive Azure DevOps Repo
 
   
     <summary>Gloomhaven is made better with digital tools.</summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Gloomhaven - An Honest Review</title>
-    <link href="https://jason.teamkerney.com/posts/a-gloom-haven-review/" rel="alternate" type="text/html" title="Gloomhaven - An Honest Review" />
-    <published>2021-06-04T05:59:00-07:00</published>
-  
-    <updated>2021-06-19T14:45:32-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/a-gloom-haven-review/</id>
-    <content src="https://jason.teamkerney.com/posts/a-gloom-haven-review/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="gaming" />
-    
-  
-
-  
-    <summary>Gloomhaven is a game I enjoy but out of the box it has a high barrier to entry</summary>
   
 
   </entry>
