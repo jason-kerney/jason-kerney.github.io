@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-07-05T19:51:50-07:00</updated>
+  <updated>2021-07-09T06:24:40-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,49 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Asking the Team</title>
+    <link href="https://jason.teamkerney.com/posts/asking-the-team/" rel="alternate" type="text/html" title="Asking the Team" />
+    <published>2021-07-09T06:00:00-07:00</published>
+  
+    <updated>2021-07-05T15:21:42-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/asking-the-team/</id>
+    <content src="https://jason.teamkerney.com/posts/asking-the-team/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="philosophy" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+Photo by Thibault Trillet from Pexels
+
+TL; DR
+
+I was asked to change my role to that of coach. I gave that decision to the team I would coach. It terrified me to do that, but it was worth it.
+
+Approached For a Change of Role
+
+Mid April 2020, I was hired as a senior full-stack engineer, with the understanding that the company does not have coaches, and I would probably never hold that title. Th...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -184,32 +227,6 @@ What is Project Sync
 
 This is a tool born out of need. My team works in an extensive Azure DevOps Repository, and I have a need to keep my working repository list to a minimum. Which means, I find myself deleting repositories, and then looking for them again in a mo...
     </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Gloomhaven - Making The Game Playable</title>
-    <link href="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" rel="alternate" type="text/html" title="Gloomhaven - Making The Game Playable" />
-    <published>2021-06-04T06:00:00-07:00</published>
-  
-    <updated>2021-06-19T14:45:32-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/b-gloomhaven-fix/</id>
-    <content src="https://jason.teamkerney.com/posts/b-gloomhaven-fix/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="gaming" />
-    
-  
-
-  
-    <summary>Gloomhaven is made better with digital tools.</summary>
   
 
   </entry>
