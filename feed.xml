@@ -4,7 +4,7 @@
   <id>https://jason.teamkerney.com/</id>
   <title>Jason's Thoughts</title>
   <subtitle>Jason's thoughts on agility, programming, business,  board games, and the surrounding communities.</subtitle>
-  <updated>2021-07-09T14:53:16-07:00</updated>
+  <updated>2021-07-16T06:51:46-07:00</updated>
   <author>
     <name>R. Jason Kerney</name>
     <uri>https://jason.teamkerney.com/</uri>
@@ -17,6 +17,52 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Professional Spotlight Oksana</title>
+    <link href="https://jason.teamkerney.com/posts/Oksana/" rel="alternate" type="text/html" title="Professional Spotlight Oksana" />
+    <published>2021-07-16T06:00:00-07:00</published>
+  
+    <updated>2021-07-07T06:32:03-07:00</updated>
+  
+    <id>https://jason.teamkerney.com/posts/Oksana/</id>
+    <content src="https://jason.teamkerney.com/posts/Oksana/" />
+    <author>
+      <name>R. Jason Kerney</name>
+    </author>
+
+  
+    
+    <category term="spot light" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+TL; DR
+
+Every now and then I run across a person who’s story is both captivating and important. Oksana, is one of those people. She is an exceptional human being, who’s passion for people is makes her a really good manager and I am happy to call her friend. Below are a few brief questions and answers that only scratch the surface of her experience.
+
+Name:
+
+Oksana O’Neill
+
+Contact:
+
+https://ww...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
@@ -183,49 +229,6 @@ Booklisp is a tool that makes managing your readme file easier and more dynamic.
 What is Booklisp?
 
 There are 4 types of open source (OO) software. The first is where the creator(s) see a general need and then go about providing a solution for that need. The second type of OO software, is where someone has a, potentially novel, idea and they go...
-    </summary>
-  
-
-  </entry>
-
-  
-  <entry>
-    <title>Project Sync</title>
-    <link href="https://jason.teamkerney.com/posts/project-sync/" rel="alternate" type="text/html" title="Project Sync" />
-    <published>2021-06-11T06:00:00-07:00</published>
-  
-    <updated>2021-06-11T06:00:00-07:00</updated>
-  
-    <id>https://jason.teamkerney.com/posts/project-sync/</id>
-    <content src="https://jason.teamkerney.com/posts/project-sync/" />
-    <author>
-      <name>R. Jason Kerney</name>
-    </author>
-
-  
-    
-    <category term="development" />
-    
-  
-
-  
-    <summary>
-      
-
-
-
-
-
-      
-
-
-TL; DR
-
-I needed a tool to allow me to manage local Azure Git directories from the Terminal. So, I built it and am sharing it.
-
-What is Project Sync
-
-This is a tool born out of need. My team works in an extensive Azure DevOps Repository, and I have a need to keep my working repository list to a minimum. Which means, I find myself deleting repositories, and then looking for them again in a mo...
     </summary>
   
 
