@@ -1,0 +1,32 @@
+{
+    "branchPrefix": {
+        "separator": "",
+        "validator": "",
+        "prefixes": {}
+    },
+    "commitPrefix": {
+        "separator": " ",
+        "validator": "^.{1,45}$",
+        "prefixes": {
+            "d": "draft work",
+            "p": "publish work",
+            "c": "edit configuration",
+            ".": "edit non blog files"
+        }
+    },
+    "aliases": [
+        {
+            "name": "pull",
+            "command": "gittey commit; git pull"
+        },
+        {
+            "name": "push",
+            "command": "gittey pull; git push"
+        },
+        {
+            "name": "publish",
+            "command": "gittey commit; gittey merge-to-branch; gittey push"
+        }
+    ],
+    "collaborators": []
+}
