@@ -10,6 +10,7 @@
         "prefixes": {
             "d": "draft work",
             "p": "publish work",
+            "e": "edit to published work",
             "c": "edit configuration",
             ".": "edit non blog files"
         }
