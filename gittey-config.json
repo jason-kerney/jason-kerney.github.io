@@ -25,7 +25,7 @@
         },
         {
             "name": "publish",
-            "command": "gittey commit; gittey merge-to-branch; gittey push"
+            "command": "gittey pull; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout"
         }
     ],
     "collaborators": []
