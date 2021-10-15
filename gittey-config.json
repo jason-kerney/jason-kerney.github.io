@@ -25,7 +25,7 @@
         },
         {
             "name": "publish",
-            "command": "gittey pull; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout"
+            "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout"
         }
     ],
     "collaborators": []
