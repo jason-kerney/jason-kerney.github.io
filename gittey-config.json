@@ -27,6 +27,14 @@
         {
             "name": "publish",
             "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout"
+        },
+        {
+            "name": "serve",
+            "command": "bundle exec jekyll serve"
+        },
+        {
+            "name": "serve-all",
+            "command": "bundle exec jekyll serve --future --drafts"
         }
     ],
     "collaborators": []
