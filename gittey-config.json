@@ -34,8 +34,12 @@
             "command": "bundle exec jekyll serve"
         },
         {
-            "name": "serve-all",
+            "name": "serve:all",
             "command": "bundle exec jekyll serve --future --drafts"
+        },
+        {
+            "name": "serve:future",
+            "command": "bundle exec jekyll serve --future"
         }
     ],
     "collaborators": []
