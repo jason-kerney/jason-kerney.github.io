@@ -19,27 +19,38 @@
     "aliases": [
         {
             "name": "pull",
-            "command": "gittey commit; git pull"
+            "command": "gittey commit; git pull",
+            "description": "getts latest"
         },
         {
             "name": "push",
-            "command": "gittey pull; git push"
+            "command": "gittey pull; git push",
+            "description":"pushes changes"
+        },
+        {
+            "name": "build",
+            "command": "bundle exec jekyll build",
+            "description": "builds site"
         },
         {
             "name": "publish",
-            "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout"
+            "command": "gittey push; gittey checkout; gittey merge-from-branch; gittey push; gittey checkout",
+            "description": "publishes changes to the main branch"
         },
         {
             "name": "serve",
-            "command": "bundle exec jekyll serve"
+            "command": "bundle exec jekyll serve",
+            "description": "serves site"
         },
         {
             "name": "serve:all",
-            "command": "bundle exec jekyll serve --future --drafts"
+            "command": "bundle exec jekyll serve --future --drafts",
+            "description": "serves site with drafts and future posts"
         },
         {
             "name": "serve:future",
-            "command": "bundle exec jekyll serve --future"
+            "command": "bundle exec jekyll serve --future",
+            "description": "serves site with future posts"
         }
     ],
     "collaborators": []
